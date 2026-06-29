@@ -1,0 +1,16 @@
+Analyze the career advice and skill gaps provided to create a structured learning roadmap.
+
+Career Advice: {career_advice}
+
+Provide the response in JSON format with these fields:
+- career_goal: string
+- roadmap: {{
+    "thirty_days": list of strings,
+    "sixty_days": list of strings,
+    "ninety_days": list of strings
+  }}
+- recommended_courses: list of strings
+- recommended_projects: list of strings
+- recommended_certifications: list of strings
+
+Return ONLY valid JSON.
