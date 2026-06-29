@@ -1,0 +1,10 @@
+.venv
+.git
+.env
+__pycache__
+*.pyc
+logs
+.pytest_cache
+.idea
+.vscode
+data/users.json

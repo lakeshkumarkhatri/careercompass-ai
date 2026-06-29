@@ -1,0 +1,12 @@
+Given the following:
+Career Advice: <<CAREER_ADVICE>>
+Learning Roadmap: <<LEARNING_ROADMAP>>
+Interview Preparation: <<INTERVIEW_PREPARATION>>
+
+Provide a concise executive summary that highlights:
+- strengths
+- priorities
+- final recommendations
+
+Return JSON format with "overall_summary" field.
+Return ONLY valid JSON.
