@@ -1,0 +1,14 @@
+Analyze the following resume text and provide a detailed analysis in JSON format.
+Include these fields:
+- candidate_name: string
+- education: list of strings
+- skills: list of strings
+- experience_summary: string
+- strengths: list of strings
+- improvement_areas: list of strings
+- recommended_job_roles: list of strings
+
+Return ONLY valid JSON.
+
+Resume Text:
+{resume_text}

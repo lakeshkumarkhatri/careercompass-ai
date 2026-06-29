@@ -3,4 +3,7 @@ uvicorn
 python-dotenv
 pydantic-settings
 pytest
+google-genai
+python-multipart
+pymupdf
 httpx
