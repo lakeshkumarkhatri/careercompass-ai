@@ -1,0 +1,16 @@
+Analyze the following candidate profile and their top deterministic job matches to provide career advice in JSON format.
+
+Candidate Name: {candidate_name}
+Resume Summary: {resume_summary}
+Top Job Matches: {job_matches}
+
+Provide the response in JSON format with these fields:
+- candidate_name: string
+- career_path: string
+- summary: string
+- top_strengths: list of strings
+- skill_gaps: list of strings
+- recommended_jobs: list of strings
+- next_steps: list of strings
+
+Return ONLY valid JSON.
