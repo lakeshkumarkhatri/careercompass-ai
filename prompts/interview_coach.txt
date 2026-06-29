@@ -1,0 +1,14 @@
+Analyze the candidate profile, job matches, and career advice to provide interview preparation materials in JSON format.
+
+Candidate Profile: <<CANDIDATE_PROFILE>>
+Job Matches: <<JOB_MATCHES>>
+Career Advice: <<CAREER_ADVICE>>
+
+Provide the response in JSON format with these fields:
+- target_role: string
+- technical_questions: list of {question: string, sample_answer: string}
+- behavioral_questions: list of {question: string, sample_answer: string}
+- resume_questions: list of {question: string, sample_answer: string}
+- tips: list of strings
+
+Return ONLY valid JSON.
