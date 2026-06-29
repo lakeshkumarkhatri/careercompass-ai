@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "Senior Software Engineer",
+        "company": "Tech Corp",
+        "skills": ["python", "fastapi", "docker", "kubernetes", "aws"]
+    },
+    {
+        "id": "2",
+        "title": "Data Scientist",
+        "company": "Data Insights",
+        "skills": ["python", "pytorch", "tensorflow", "sql", "pandas"]
+    },
+    {
+        "id": "3",
+        "title": "AI Engineer",
+        "company": "AI Labs",
+        "skills": ["python", "llms", "langchain", "prompt engineering", "pytorch"]
+    },
+    {
+        "id": "4",
+        "title": "Backend Developer",
+        "company": "Web Solutions",
+        "skills": ["python", "django", "postgresql", "redis", "docker"]
+    },
+    {
+        "id": "5",
+        "title": "Frontend Developer",
+        "company": "Creative UI",
+        "skills": ["javascript", "react", "typescript", "css", "html"]
+    }
+]
